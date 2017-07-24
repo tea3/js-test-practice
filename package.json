@@ -1,0 +1,29 @@
+{
+  "name": "js-test-practice",
+  "version": "1.0.0",
+  "description": "javascript test practice",
+  "main": "index.js",
+  "scripts": {
+    "test-normal": "mocha test/test.js",
+    "test": "mocha test/test.js --require intelli-espower-loader",
+    "test-cov": "istanbul cover --print both _mocha -- test/test.js --require intelli-espower-loader",
+    "eslint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tea3/js-test-practice"
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^3.4.2",
+    "power-assert": "^1.4.4"
+  },
+  "dependencies": {}
+}

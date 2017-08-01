@@ -1,6 +1,6 @@
 
 
-[![Build Status](https://travis-ci.org/teegh/mocha-test.svg?branch=master)](https://travis-ci.org/teegh/mocha-test) [![Coverage Status](https://img.shields.io/coveralls/teegh/mocha-test.svg)](https://coveralls.io/r/teegh/mocha-test?branch=master) <!--[![NPM version](https://badge.fury.io/js/mocha-test.svg)](http://badge.fury.io/js/mocha-test)-->
+[![Build Status](https://travis-ci.org/tea3/js-test-practice.svg?branch=master)](https://travis-ci.org/tea3/js-test-practice) [![Coverage Status](https://img.shields.io/coveralls/tea3/js-test-practice.svg)](https://coveralls.io/r/tea3/js-test-practice?branch=master) <!--[![NPM version](https://badge.fury.io/js/mocha-test.svg)](http://badge.fury.io/js/mocha-test)-->
 
 # js-test-practice
 

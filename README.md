@@ -6,7 +6,7 @@
 
 javascript(ES6)のテスト環境とTravis CIの練習です。
 
-記事： [javascriptのテストとコード構文チェックに必要なもの。mocha・eslint・istanbul・power-assertの概要](https://photo-tea.com/p/17javascript-test-how-to-1/)
+記事： [javascriptのテストとコード構文チェックに必要なもの。mocha・eslint・istanbul・power-assertの概要](https://photo-tea.com/p/17/javascript-test-how-to-1/)
 
 ## 使い方
 
